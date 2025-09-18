@@ -7,3 +7,6 @@ This is showing the success of your work.
 
 [![Releases](https://img.shields.io/github/release/Swe-Zin-Ei/devops/all.svg?style=flat-square)](https://github.com/<Swe-Zin-Ei>/devops/releases)
 
+
+# DevOps
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Swe-Zin-Ei/devops/main.yml?branch=main&style=flat-square)
